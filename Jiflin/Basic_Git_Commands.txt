@@ -1,0 +1,24 @@
+Remote Repository
+----------
+Github
+GitLab
+BitBucket
+
+https://github.com/Muthukarthi/githubsession.git
+
+Basic Commands of Git
+----------------
+…or create a new repository on the command line
+------------
+echo "# githubsession" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muthukarthi/githubsession.git
+git push -u origin main
+--------
+git remote add origin https://github.com/Muthukarthi/githubsession.git
+git branch -M main
+git push -u origin main
+------
